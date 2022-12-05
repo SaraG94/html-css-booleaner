@@ -1,3 +1,20 @@
 header{
     background-color: rgb(71, 142, 223);
 }
+
+.logo{
+    width: 15%;
+}
+
+.scrittori{
+    color: #878787;
+    font-size: 300;
+}
+
+.autor{
+    color: rgb(121,203,239);
+}
+
+p>.impo{
+    background-color: yellow;
+}
