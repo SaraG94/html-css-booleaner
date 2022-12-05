@@ -30,3 +30,11 @@ th{
 td{
     width: 300px;
 }
+
+.dispari{
+    background-color: #b1e5f2;
+}
+
+.consigli>h4{
+    color: gray;
+}
