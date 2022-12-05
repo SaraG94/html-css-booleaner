@@ -32,14 +32,14 @@ p>.impo{
 
 /*tabella*/
 th{
-    width: 300px;
+    width: 30%;
     background: rgb(32,169,229);
     text-align: left;
     color: white;
 }
 
 td{
-    width: 300px;
+    width: 30%;
 }
 
 .dispari{
