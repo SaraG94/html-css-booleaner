@@ -18,3 +18,15 @@ header{
 p>.impo{
     background-color: yellow;
 }
+
+
+th{
+    width: 300px;
+    background: rgb(32,169,229);
+    text-align: left;
+    color: white;
+}
+
+td{
+    width: 300px;
+}
